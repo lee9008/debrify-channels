@@ -37,3 +37,275 @@ https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-id="WXTV.tw" tvg-name="WXTV" group-title="港澳台",唯心電視
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery探索頻道" group-title="港澳台",Discovery探索頻道
+http://61.221.215.25:8800/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC電影台" group-title="港澳台",AMC電影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 tvg-id="NTDTVAsiaPacific" tvg-name="NTD TV Asia-Pacific" group-title="港澳台",NTD TV Asia-Pacific
+https://live.ntdtv.com/aplive200/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOAsiaTaiwan1080p" tvg-name="HBO Asia Taiwan (1080p)" group-title="港澳台",HBO Asia Taiwan (1080p)
+http://125.227.210.55:1003/VideoInput/play.ts
+#EXTINF:-1 tvg-id="CinemaxAsiaTaiwan1080p" tvg-name="Cinemax Asia Taiwan (1080p)" group-title="港澳台",Cinemax Asia Taiwan (1080p)
+http://125.227.210.55:1001/VideoInput/play.ts
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery探索亞洲" group-title="港澳台",Discovery探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 tvg-id="GOODTV" tvg-name="GOODTV復興禱告" group-title="港澳台",GOODTV復興禱告
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech38.m3u8
+#EXTINF:-1 tvg-id="GOODTVHD" tvg-name="GOODTV道在人間HD" group-title="港澳台",GOODTV道在人間HD
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-id="GTV1HD" tvg-name="GTV八大第1台HD" group-title="港澳台",GTV八大第1台HD
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" group-title="港澳台",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimaxAsiaTaiwan" tvg-name="Animax Asia Taiwan" group-title="港澳台",Animax Asia Taiwan
+http://125.227.210.55:3056/VideoInput/play.ts
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY頻道" group-title="港澳台",HISTORY頻道
+http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:-1 tvg-id="AXNAsiaTaiwan1080p" tvg-name="AXN Asia Taiwan (1080p)" group-title="港澳台",AXN Asia Taiwan (1080p)
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 tvg-id="SET" tvg-name="SET三立戲劇" group-title="港澳台",SET三立戲劇
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 tvg-id="GTVHD" tvg-name="GTV八大戲劇HD" group-title="港澳台",GTV八大戲劇HD
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 tvg-id="GOODTV" tvg-name="GOODTV好消息卡通" group-title="港澳台",GOODTV好消息卡通
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+#EXTINF:-1 tvg-id="GOODTVHD" tvg-name="GOODTV好消息HD" group-title="港澳台",GOODTV好消息HD
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHK WORLD" group-title="港澳台",NHK WORLD
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 tvg-id="GTVHD" tvg-name="GTV八大綜合台HD" group-title="港澳台",GTV八大綜合台HD
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS亚洲" group-title="港澳台",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS新闻台" group-title="港澳台",TVBS新闻台
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="八大综合" group-title="港澳台",八大综合
+https://epg.pw/stream/adb797f4658363759c5a408dfec1e091e7cfe712fe04afaa3b8d7670efef57e1.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="博斯魅力" group-title="港澳台",博斯魅力
+https://epg.pw/stream/440e2c0585ce62fd999454df8770aef94a3631ed4dbb1036be6a191ce879d581.m3u8
+#EXTINF:-1 tvg-id="345" tvg-name="东森超视34.5" group-title="港澳台",东森超视34.5
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="大爱二台" group-title="港澳台",大爱二台
+https://epg.pw/stream/1f3e158520af1be7f1dfdd5c56fe0393e54fe4bde8d8fbdfe04f74185117e9db.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="博斯运动2" group-title="港澳台",博斯运动2
+https://epg.pw/stream/f8e9fc9a8c76935a58f6c9295462febadcc2e06471bc7634a6cd4d7fe5a12b14.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="东森美洲卫视" group-title="港澳台",东森美洲卫视
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="点掌财经" group-title="港澳台",点掌财经
+https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="东森财经" group-title="港澳台",东森财经
+https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="動物星球" group-title="港澳台",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="东森超视" group-title="港澳台",东森超视
+https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="东森美洲" group-title="港澳台",东森美洲
+https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="东森新闻" group-title="港澳台",东森新闻
+https://epg.pw/stream/d91376ed07fba14fec3772dd7bfcc266f213294ded9193f751afb3e7ca95f573.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="东森戏剧" group-title="港澳台",东森戏剧
+https://epg.pw/stream/5dc124caeeb73ea07e5542cca877600b90f87a42e72b579e267528c3411b073f.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="东森综合" group-title="港澳台",东森综合
+https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="东森幼幼台" group-title="港澳台",东森幼幼台
+https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="國會頻道1" group-title="港澳台",國會頻道1
+http://61.58.60.230:9319/live/123.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="好消息电视台" group-title="港澳台",好消息电视台
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="好消息" group-title="港澳台",好消息
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="华视" group-title="港澳台",华视
+https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="动物星球" group-title="港澳台",动物星球
+https://epg.pw/stream/0e38a2ff528e933b9a9dc37acf08f88b9ac4c118cdbba4adac0517303612645e.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="好消息综合台" group-title="港澳台",好消息综合台
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="凤凰香港台" group-title="港澳台",凤凰香港台
+https://epg.pw/stream/27b49ba568efc8dcc9af6a79ec06ffd4a2e354e3e2060143be83fca695edf46e.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="公视" group-title="港澳台",公视
+https://epg.pw/stream/5c0663273403c40461cd1ae04cc5cfa4bb9d5d626270d5ec1754aeb554c3020b.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="国家地理野生" group-title="港澳台",国家地理野生
+https://epg.pw/stream/936ec911ca3a23631c8e822081ca3fe8f0e1a93bac068f4db5eaa005b2fccba7.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="寰宇新闻" group-title="港澳台",寰宇新闻
+https://epg.pw/stream/eed37c9d7d82dc884bdfa04703da80f8bdb4e9910fbd2b396c8f72fb66093c75.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="靖天国际台" group-title="港澳台",靖天国际台
+https://epg.pw/stream/d3d02fa9532f7534b585d54c1d5c9d2efd49a5e08858e1f16750eec4448f083a.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="龙华戏剧" group-title="港澳台",龙华戏剧
+https://epg.pw/stream/cf908cfdb24cc4a8297f6f7fd955ca7ef3579e892600280fde9cdcfcffb4e481.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="民视新闻台" group-title="港澳台",民视新闻台
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-id="C" tvg-name="美亚C+" group-title="港澳台",美亚C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="美食星球" group-title="港澳台",美食星球
+https://epg.pw/stream/1df3601f344fa4b1c79295aefec312f528d418c2ed0b391b3fe630ed1ddf70fc.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="人间卫视" group-title="港澳台",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="美亚电影" group-title="港澳台",美亚电影
+https://epg.pw/stream/36b38b4c010474566de14e477a1113b335f32a4e5811548b7119b289ab05f5dd.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="人间卫视" group-title="港澳台",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="生命電視" group-title="港澳台",生命電視
+http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="世新綜合" group-title="港澳台",世新綜合
+http://61.58.60.230:9319/live/49.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="民视" group-title="港澳台",民视
+https://epg.pw/stream/446ff2630964ca5ddcb9f9cb6d4e1a5f2ca1dca875b2a4e1c462b9e5cf83b77d.m3u8
+#EXTINF:-1 tvg-id="HD" tvg-name="台视新闻 HD" group-title="港澳台",台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="生命電視台" group-title="港澳台",生命電視台
+http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+#EXTINF:-1 tvg-id="ch" tvg-name="尼克儿童频道" group-title="港澳台",尼克儿童频道
+https://epg.pw/stream/3f9e0cbf40dd4828d593f974c80730357e4fdc12f11b239ef6f6542e21e781a4.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="唯心电视台" group-title="港澳台",唯心电视台
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="唯心電視" group-title="港澳台",唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-id="much" tvg-name="年代much" group-title="港澳台",年代much
+https://epg.pw/stream/811e09d2c2770631c5621144d8e610cfa14a4b55154ca84556b5dab9b5c49317.m3u8
+#EXTINF:-1 tvg-id="HD" tvg-name="緯來精采HD" group-title="港澳台",緯來精采HD
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="三立台湾台" group-title="港澳台",三立台湾台
+https://epg.pw/stream/79a263b6160e568f6d3cd91417334e5b08f1638bf5990da99c65d94589d35fb7.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="香港佛陀" group-title="港澳台",香港佛陀
+http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1 tvg-id="MAS" tvg-name="天映频道(MAS)" group-title="港澳台",天映频道(MAS)
+https://epg.pw/stream/be57bcf7129184f546bebfec81d980207851b2d523b83ff64deddda8d6e5e5e6.ctv
+#EXTINF:-1 tvg-id="ch" tvg-name="天映经典" group-title="港澳台",天映经典
+https://epg.pw/stream/257310e766410da552d36d6edd54d575489b6f2f6fc282f89d697d68b46b47fc.ctv
+#EXTINF:-1 tvg-id="ch" tvg-name="香港電台普通話台" group-title="港澳台",香港電台普通話台
+https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="唯心电视" group-title="港澳台",唯心电视
+https://epg.pw/stream/7d651c567d48727fc8f95cef7d2b349246baef656e557211c784bc62024b10d0.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="纬来体育" group-title="港澳台",纬来体育
+https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="民視閩南頻道" group-title="港澳台",民視閩南頻道
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="纬来综合" group-title="港澳台",纬来综合
+https://epg.pw/stream/03ebc1a8a33908af343e09da79d9d8d08246222c793931c98184be5818a788a1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="音樂欣賞1" group-title="港澳台",音樂欣賞1
+http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="音樂欣賞2" group-title="港澳台",音樂欣賞2
+http://61.221.215.25:8800/hls/58/index.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="香港国际财经台" group-title="港澳台",香港国际财经台
+https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="有线新闻" group-title="港澳台",有线新闻
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+#EXTINF:-1 tvg-id="ch" tvg-name="香港卫视" group-title="港澳台",香港卫视
+https://epg.pw/stream/ad0b854c8dbe94e0e45c618aa5a6da822e8437f77ae84fdf6718423015495aaa.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="中華小當家" group-title="港澳台",中華小當家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="有线新闻台" group-title="港澳台",有线新闻台
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="香港卫视文旅" group-title="港澳台",香港卫视文旅
+https://epg.pw/stream/092a08c73e2f252b5b864bbf21fc7753e7c59c706165977ab071e8b2216da0cb.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="中天娱乐" group-title="港澳台",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="香港有线新闻" group-title="港澳台",香港有线新闻
+https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
+#EXTINF:-1 tvg-id="ch" tvg-name="唯心電視台" group-title="港澳台",唯心電視台
+https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="有线财经信息台" group-title="港澳台",有线财经信息台
+https://epg.pw/stream/0fddc0600d3868b05ad741d46294410aebca0fdc4fada5028dc54e624b7b17ca.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="中视" group-title="港澳台",中视
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 tvg-id="CNNCNN" tvg-name="CNN有線電視新聞網(美國偏自由派)(CNN)" group-title="港澳台",CNN有線電視新聞網(美國偏自由派)(CNN)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="中视" group-title="港澳台",中视
+https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="香港佛陀教育協會" group-title="港澳台",香港佛陀教育協會
+https://i.cibei.org/live/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="民視" group-title="港澳台",民視
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv002
+#EXTINF:-1 tvg-id="ch" tvg-name="民視台灣台" group-title="港澳台",民視台灣台
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv001
+#EXTINF:-1 tvg-id="ch" tvg-name="靖天映畫" group-title="港澳台",靖天映畫
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv055
+#EXTINF:-1 tvg-id="ch" tvg-name="靖天歡樂台" group-title="港澳台",靖天歡樂台
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv054
+#EXTINF:-1 tvg-id="ch" tvg-name="靖天戲劇台" group-title="港澳台",靖天戲劇台
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv058
+#EXTINF:-1 tvg-id="ch" tvg-name="靖天電影台" group-title="港澳台",靖天電影台
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv061
+#EXTINF:-1 tvg-id="ch" tvg-name="靖天育樂台" group-title="港澳台",靖天育樂台
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv062
+#EXTINF:-1 tvg-id="ch" tvg-name="靖天國際台" group-title="港澳台",靖天國際台
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv063
+#EXTINF:-1 tvg-id="ch" tvg-name="中視菁采" group-title="港澳台",中視菁采
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv064
+#EXTINF:-1 tvg-id="ch" tvg-name="靖天資訊台" group-title="港澳台",靖天資訊台
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv065
+#EXTINF:-1 tvg-id="ch" tvg-name="愛爾達娛樂" group-title="港澳台",愛爾達娛樂
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv070
+#EXTINF:-1 tvg-id="ch" tvg-name="中視新聞" group-title="港澳台",中視新聞
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv074
+#EXTINF:-1 tvg-id="ch" tvg-name="鏡新聞" group-title="港澳台",鏡新聞
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv075
+#EXTINF:-1 tvg-id="ch" tvg-name="中視經典" group-title="港澳台",中視經典
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv080
+#EXTINF:-1 tvg-id="1" tvg-name="國會頻道1" group-title="港澳台",國會頻道1
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv084
+#EXTINF:-1 tvg-id="2" tvg-name="國會頻道2" group-title="港澳台",國會頻道2
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv085
+#EXTINF:-1 tvg-id="ch" tvg-name="東森新聞" group-title="港澳台",東森新聞
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv152
+#EXTINF:-1 tvg-id="ch" tvg-name="東森財經新聞" group-title="港澳台",東森財經新聞
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv153
+#EXTINF:-1 tvg-id="ch" tvg-name="民視" group-title="港澳台",民視
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv155
+#EXTINF:-1 tvg-id="ch" tvg-name="民視台灣台" group-title="港澳台",民視台灣台
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv156
+#EXTINF:-1 tvg-id="ch" tvg-name="民視旅遊" group-title="港澳台",民視旅遊
+http://free.xiptv.x10.bz/4gtv.php?id=litv-ftv07
+#EXTINF:-1 tvg-id="ch" tvg-name="民視影劇" group-title="港澳台",民視影劇
+http://free.xiptv.x10.bz/4gtv.php?id=litv-ftv09
+#EXTINF:-1 tvg-id="ch" tvg-name="民視新聞台" group-title="港澳台",民視新聞台
+http://free.xiptv.x10.bz/4gtv.php?id=litv-ftv13
+#EXTINF:-1 tvg-id="ch" tvg-name="好消息" group-title="港澳台",好消息
+http://free.xiptv.x10.bz/4gtv.php?id=litv-ftv16
+#EXTINF:-1 tvg-id="2" tvg-name="好消息2台" group-title="港澳台",好消息2台
+http://free.xiptv.x10.bz/4gtv.php?id=litv-ftv17
+#EXTINF:-1 tvg-id="ch" tvg-name="環宇新聞台灣台" group-title="港澳台",環宇新聞台灣台
+http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn15
+#EXTINF:-1 tvg-id="ch" tvg-name="台灣戲劇台" group-title="港澳台",台灣戲劇台
+http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn22
+#EXTINF:-1 tvg-id="ch" tvg-name="台視" group-title="港澳台",台視
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv066
+#EXTINF:-1 tvg-id="ch" tvg-name="公視戲劇" group-title="港澳台",公視戲劇
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv042
+#EXTINF:-1 tvg-id="ch" tvg-name="客家電視台" group-title="港澳台",客家電視台
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv043
+#EXTINF:-1 tvg-id="ch" tvg-name="靖天綜合台" group-title="港澳台",靖天綜合台
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv046
+#EXTINF:-1 tvg-id="ch" tvg-name="靖天卡通台" group-title="港澳台",靖天卡通台
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv044
+#EXTINF:-1 tvg-id="ch" tvg-name="靖天日本台" group-title="港澳台",靖天日本台
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv047
+#EXTINF:-1 tvg-id="ch" tvg-name="非凡商業" group-title="港澳台",非凡商業
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv048
+#EXTINF:-1 tvg-id="ch" tvg-name="台視新聞" group-title="港澳台",台視新聞
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv051
+#EXTINF:-1 tvg-id="ch" tvg-name="華視新聞" group-title="港澳台",華視新聞
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv052
+#EXTINF:-1 tvg-id="ch" tvg-name="民視第壹台" group-title="港澳台",民視第壹台
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv003
+#EXTINF:-1 tvg-id="ch" tvg-name="民視綜藝" group-title="港澳台",民視綜藝
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv004
+#EXTINF:-1 tvg-id="ch" tvg-name="台視財經" group-title="港澳台",台視財經
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv056
+#EXTINF:-1 tvg-id="ch" tvg-name="中天新聞" group-title="港澳台",中天新聞
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv009
+#EXTINF:-1 tvg-id="ch" tvg-name="非凡新聞" group-title="港澳台",非凡新聞
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv010
+#EXTINF:-1 tvg-id="ch" tvg-name="八大精彩台" group-title="港澳台",八大精彩台
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv034
+#EXTINF:-1 tvg-id="ch" tvg-name="八大綜藝台" group-title="港澳台",八大綜藝台
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv039
+#EXTINF:-1 tvg-id="ch" tvg-name="中視" group-title="港澳台",中視
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv040
+#EXTINF:-1 tvg-id="ch" tvg-name="華視" group-title="港澳台",華視
+http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv041
+#EXTINF:-1 tvg-id="ch" tvg-name="民視第一" group-title="港澳台",民視第一
+http://37.27.111.214:8080/live/4/hls.m3u8
+#EXTINF:-1 tvg-id="ch" tvg-name="民視臺灣" group-title="港澳台",民視臺灣
+http://37.27.111.214:8080/live/5/hls.m3u8
