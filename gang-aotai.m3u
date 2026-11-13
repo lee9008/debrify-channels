@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-name="Beautiful Life TV" group-title="港澳台",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-id="CGNTVChinese.tw" tvg-name="CGNTV Chinese" group-title="港澳台",CGNTV Chinese
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 tvg-id="DaliTV.tw" tvg-name="Dali TV" group-title="港澳台",Dali TV (大立電視台)
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw" tvg-name="Discovery Asia Taiwan" group-title="港澳台",Discovery Asia Taiwan
+http://125.227.210.55:1004/VideoInput/play.ts
+#EXTINF:-1 tvg-id="Good2.tw" tvg-name="Good 2" group-title="港澳台",GOOD TV CH2 真理台
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-id="GoodTV.tw" tvg-name="Good TV" group-title="港澳台",GOOD TV CH1 綜合台
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-id="HakkaTV.tw" tvg-name="Hakka TV" group-title="港澳台",Hakka TV
+https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 tvg-id="KIX.hk" tvg-name="KIX" group-title="港澳台",KIX
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
+#EXTINF:-1 tvg-id="LotusTV.mo" tvg-name="Lotus TV" group-title="港澳台",Lotus Macau HD 720p
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-id="PetClubTV.hk" tvg-name="Pet Club TV" group-title="港澳台",Pet Club TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="PetClubTV.hk" tvg-name="Pet Club TV" group-title="港澳台",Pet Club TV
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-name="RTHK TV 31" group-title="港澳台",RTHK TV 31 (港台電視31)
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-name="RTHK TV 31" group-title="港澳台",RTHK TV 31 (港台電視31)
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-name="Supreme Master TV" group-title="港澳台",Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 tvg-id="TTVNews.tw" tvg-name="TTV News" group-title="港澳台",TTV News
+https://live.wcetv.com/hls/master-ttvnews.m3u8
+#EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-name="TVBS-Asia" group-title="港澳台",TVBS Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-name="Taiwan Indigenous TV" group-title="港澳台",Taiwan Indigenous TV
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" group-title="港澳台",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-id="WXTV.tw" tvg-name="WXTV" group-title="港澳台",唯心電視
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
