@@ -309,3 +309,45 @@ http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv041
 http://37.27.111.214:8080/live/4/hls.m3u8
 #EXTINF:-1 tvg-id="ch" tvg-name="民視臺灣" group-title="港澳台",民視臺灣
 http://37.27.111.214:8080/live/5/hls.m3u8
+#EXTINF:-1 tvg-name="耀才财经" group-title="港澳台",耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-name="TVBS" group-title="港澳台",TVBS
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 tvg-name="TVB娛樂新聞" group-title="港澳台",TVB娛樂新聞
+https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8
+#EXTINF:-1 tvg-name="香港佛陀" group-title="港澳台",香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 tvg-name="台視新聞" group-title="港澳台",台視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-name="台視新聞" group-title="港澳台",台視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-name="民視新聞台" group-title="港澳台",民視新聞台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-name="台視新聞" group-title="港澳台",台視新聞
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 tvg-name="台視新聞" group-title="港澳台",台視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+#EXTINF:-1 tvg-name="民視新聞" group-title="港澳台",民視新聞
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 tvg-name="民視新聞" group-title="港澳台",民視新聞
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 tvg-name="東森美洲2" group-title="港澳台",東森美洲2
+http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+#EXTINF:-1 tvg-name="台視新聞" group-title="港澳台",台視新聞
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 tvg-name="TVB星河" group-title="港澳台",TVB星河
+https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
+#EXTINF:-1 tvg-name="TVB星河" group-title="港澳台",TVB星河
+https://epg.pw/stream/186dab52eabcdf6b47765bf93dc370a250af463f1759ce68025a20c01a9ba0d8.m3u8
+#EXTINF:-1 tvg-name="八大綜合" group-title="港澳台",八大綜合
+https://epg.pw/stream/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
+#EXTINF:-1 tvg-name="台視新聞" group-title="港澳台",台視新聞
+https://epg.pw/stream/9c01d60667916853d9729b3f653cadc718828c7976a0844bcbeb1f90d6e25212.m3u8
+#EXTINF:-1 tvg-name="台視新聞" group-title="港澳台",台視新聞
+https://epg.pw/stream/44b15ebca92df287ed0eed88fef12d6bce71b47c12f848691d7c603caeb5f85b.m3u8
+#EXTINF:-1 tvg-name="大愛" group-title="港澳台",大愛
+https://epg.pw/stream/634d66848d8e5fe80d4fb498f3de9e0a841cad38d5e9a12d8e1b4a807a7f5857.m3u8
+#EXTINF:-1 tvg-name="大愛2" group-title="港澳台",大愛2
+https://epg.pw/stream/60efaf070c91949a4c4e52c9d35746ebfb99b5318b43115c15205965c5807948.m3u8
+#EXTINF:-1 tvg-name="大愛2" group-title="港澳台",大愛2
+https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
