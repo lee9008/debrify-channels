@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 group-title="港澳台" tvg-name="CCTV-Billiards (1080p)",CCTV-Billiards (1080p) [HK]
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 group-title="港澳台" tvg-name="港台電視32",港台電視32 [HK]
+http://45.192.97.170:8880/play/1203.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="有線新聞台",有線新聞台 [HK]
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="有線新聞台",有線新聞台 [HK]
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="有線新聞台",有線新聞台 [HK]
+http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="有線新聞台",有線新聞台 [HK]
+http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="HOY TV",HOY TV [HK]
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="HOY TV",HOY TV [HK]
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 group-title="港澳台" tvg-name="明珠台",明珠台 [HK]
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 group-title="港澳台" tvg-name="明珠台",明珠台 [HK]
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 group-title="港澳台" tvg-name="ViuTV",ViuTV [HK]
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 group-title="港澳台" tvg-name="翡翠台",翡翠台 [HK]
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 group-title="港澳台" tvg-name="翡翠台",翡翠台 [HK]
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#EXTINF:-1 group-title="港澳台" tvg-name="港台電視31",港台電視31 [HK]
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 group-title="港澳台" tvg-name="港台電視32",港台電視32 [HK]
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 group-title="港澳台" tvg-name="TVB News Channel",TVB News Channel [HK]
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 group-title="港澳台" tvg-name="翡翠台",翡翠台 [HK]
+http://r.jdshipin.com/GeWKr
+#EXTINF:-1 group-title="港澳台" tvg-name="TVB Plus",TVB Plus [HK]
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 group-title="港澳台" tvg-name="ViuTV",ViuTV [HK]
+http://r.jdshipin.com/TcKr2
+#EXTINF:-1 group-title="港澳台" tvg-name="明珠台",明珠台 [HK]
+http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 group-title="港澳台" tvg-name="翡翠台",翡翠台 [HK]
+http://r.jdshipin.com/qrfbg
+#EXTINF:-1 group-title="港澳台" tvg-name="HOY TV",HOY TV [HK]
+http://r.jdshipin.com/sFw4S
+#EXTINF:-1 group-title="港澳台" tvg-name="ViuTV",ViuTV [HK]
+http://r.jdshipin.com/vSJvl
+#EXTINF:-1 group-title="港澳台" tvg-name="HOY TV",HOY TV [HK]
+http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="TVB Vietnam (1080p)",TVB Vietnam (1080p) [HK]
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="AWTV (1080p) [Geo-blocked]",AWTV (1080p) [Geo-blocked] [MO]
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="Bloomberg TV Asia Live Event",Bloomberg TV Asia Live Event [HK]
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="無綫新聞台",無綫新聞台 [HK]
+https://cdn.haititivi.com/website/haitinews/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="無綫新聞台",無綫新聞台 [HK]
+https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="明珠台",明珠台 [HK]
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="HOY TV",HOY TV [HK]
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
