@@ -1,0 +1,353 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视",CCTV-1综合
+rtp://239.16.20.1:10010
+#EXTINF:-1 group-title="央视",CCTV-2财经
+rtp://239.16.20.2:10020
+#EXTINF:-1 group-title="央视",CCTV-3综艺
+rtp://239.16.20.3:10030
+#EXTINF:-1 group-title="央视",CCTV-4中文国际
+rtp://239.16.20.4:10040
+#EXTINF:-1 group-title="央视",CCTV-5体育
+rtp://239.16.20.53:10530
+#EXTINF:-1 group-title="央视",CCTV-5+体育赛事
+rtp://239.16.20.5:10050
+#EXTINF:-1 group-title="央视",CCTV-6电影
+rtp://239.16.20.6:10060
+#EXTINF:-1 group-title="央视",CCTV-7国防军事
+rtp://239.16.20.51:10510
+#EXTINF:-1 group-title="央视",CCTV-8电视剧
+rtp://239.16.20.8:10080
+#EXTINF:-1 group-title="央视",CCTV-9纪录
+rtp://239.16.20.9:10090
+#EXTINF:-1 group-title="央视",CCTV-10科教
+rtp://239.16.20.10:10100
+#EXTINF:-1 group-title="央视",CCTV-11戏曲
+rtp://239.16.20.11:10110
+#EXTINF:-1 group-title="央视",CCTV-12社会与法
+rtp://239.16.20.12:10120
+#EXTINF:-1 group-title="央视",CCTV-13新闻
+rtp://239.16.20.13:10130
+#EXTINF:-1 group-title="央视",CCTV-14少儿
+rtp://239.16.20.14:10140
+#EXTINF:-1 group-title="央视",CCTV-15音乐
+rtp://239.16.20.15:10150
+#EXTINF:-1 group-title="央视",CCTV-17农业农村
+rtp://239.16.20.7:10070
+#EXTINF:-1 group-title="卫视",河南卫视
+rtp://239.16.20.21:10210
+#EXTINF:-1 group-title="卫视",浙江卫视
+rtp://239.16.20.71:10710
+#EXTINF:-1 group-title="卫视",湖南卫视
+rtp://239.16.20.72:10720
+#EXTINF:-1 group-title="卫视",东方卫视
+rtp://239.16.20.73:10730
+#EXTINF:-1 group-title="卫视",江苏卫视
+rtp://239.16.20.74:10740
+#EXTINF:-1 group-title="卫视",安徽卫视
+rtp://239.16.20.75:10750
+#EXTINF:-1 group-title="卫视",北京卫视
+rtp://239.16.20.76:10760
+#EXTINF:-1 group-title="卫视",深圳卫视
+rtp://239.16.20.77:10770
+#EXTINF:-1 group-title="卫视",重庆卫视
+rtp://239.16.20.79:10790
+#EXTINF:-1 group-title="卫视",山东卫视
+rtp://239.16.20.80:10800
+#EXTINF:-1 group-title="卫视",贵州卫视
+rtp://239.16.20.81:10810
+#EXTINF:-1 group-title="卫视",东南卫视
+rtp://239.16.20.82:10820
+#EXTINF:-1 group-title="卫视",陕西卫视
+rtp://239.16.20.83:10830
+#EXTINF:-1 group-title="卫视",广西卫视
+rtp://239.16.20.84:10840
+#EXTINF:-1 group-title="卫视",云南卫视
+rtp://239.16.20.85:10850
+#EXTINF:-1 group-title="卫视",四川卫视
+rtp://239.16.20.86:10860
+#EXTINF:-1 group-title="卫视",湖北卫视
+rtp://239.16.20.87:10870
+#EXTINF:-1 group-title="卫视",河北卫视
+rtp://239.16.20.88:10880
+#EXTINF:-1 group-title="卫视",江西卫视
+rtp://239.16.20.89:10890
+#EXTINF:-1 group-title="卫视",吉林卫视
+rtp://239.16.20.94:10940
+#EXTINF:-1 group-title="卫视",辽宁卫视
+rtp://239.16.20.95:10950
+#EXTINF:-1 group-title="卫视",天津卫视
+rtp://239.16.20.96:10960
+#EXTINF:-1 group-title="卫视",海南卫视
+rtp://239.16.20.97:10970
+#EXTINF:-1 group-title="卫视",广东卫视
+rtp://239.16.20.98:10980
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+rtp://239.16.20.99:10990
+#EXTINF:-1 group-title="卫视",青海卫视
+rtp://239.16.20.101:11010
+#EXTINF:-1 group-title="卫视",甘肃卫视
+rtp://239.16.20.102:11020
+#EXTINF:-1 group-title="河南电信",河南都市频道
+rtp://239.16.20.164:11640
+#EXTINF:-1 group-title="河南电信",河南民生频道
+rtp://239.16.20.165:11650
+#EXTINF:-1 group-title="河南电信",河南法治频道
+rtp://239.16.10.122:2000
+#EXTINF:-1 group-title="河南电信",河南电视剧频道
+rtp://239.16.20.167:11670
+#EXTINF:-1 group-title="河南电信",河南新闻频道
+rtp://239.16.20.168:11680
+#EXTINF:-1 group-title="河南电信",河南乡村频道
+rtp://239.16.20.195:11950
+#EXTINF:-1 group-title="河南电信",河南戏曲频道
+rtp://239.16.20.171:11710
+#EXTINF:-1 group-title="河南电信",河南收藏天下
+rtp://239.16.10.149:2000
+#EXTINF:-1 group-title="河南电信",河南中华功夫
+rtp://239.16.20.173:11730
+#EXTINF:-1 group-title="河南电信",河南移动电视
+rtp://239.16.20.204:12040
+#EXTINF:-1 group-title="河南电信",河南调解剧场
+rtp://239.16.20.197:11970
+#EXTINF:-1 group-title="河南电信",河南移动戏曲
+rtp://239.16.20.120:11200
+#EXTINF:-1 group-title="河南电信",河南睛彩中原
+rtp://239.16.20.122:11220
+#EXTINF:-1 group-title="河南电信",郑州1新闻综合
+rtp://239.16.10.154:2000
+#EXTINF:-1 group-title="河南电信",郑州2商都频道
+rtp://239.16.10.155:2000
+#EXTINF:-1 group-title="河南电信",郑州3文体旅游
+rtp://239.16.10.156:2000
+#EXTINF:-1 group-title="河南电信",郑州4豫剧频道
+rtp://239.16.10.157:2000
+#EXTINF:-1 group-title="河南电信",郑州5妇女儿童
+rtp://239.16.10.158:2000
+#EXTINF:-1 group-title="河南电信",郑州6都市生活
+rtp://239.16.10.159:2000
+#EXTINF:-1 group-title="河南电信",洛阳-1新闻综合
+rtp://239.16.20.179:11790
+#EXTINF:-1 group-title="河南电信",洛阳-2科教频道
+rtp://239.16.20.177:11770
+#EXTINF:-1 group-title="河南电信",洛阳-3文旅频道
+rtp://239.16.20.178:11780
+#EXTINF:-1 group-title="河南电信",南阳1新闻综合
+rtp://239.16.10.58:2000
+#EXTINF:-1 group-title="河南电信",南阳2公共频道
+rtp://239.16.10.165:2000
+#EXTINF:-1 group-title="河南电信",南阳3科教频道
+rtp://239.16.10.164:2000
+#EXTINF:-1 group-title="河南电信",周口公共频道
+rtp://239.16.10.172:2000
+#EXTINF:-1 group-title="河南电信",周口教育频道
+rtp://239.16.10.173:2000
+#EXTINF:-1 group-title="河南电信",周口新闻综合
+rtp://239.16.10.59:2000
+#EXTINF:-1 group-title="河南电信",开封1新闻综合
+rtp://239.16.10.57:2000
+#EXTINF:-1 group-title="河南电信",开封2文化旅游
+rtp://239.16.10.177:2000
+#EXTINF:-1 group-title="河南电信",新乡公共频道
+rtp://239.16.20.154:11540
+#EXTINF:-1 group-title="河南电信",新乡新闻综合
+rtp://239.16.20.139:11390
+#EXTINF:-1 group-title="河南电信",焦作公共频道
+rtp://239.16.20.155:11550
+#EXTINF:-1 group-title="河南电信",焦作综合频道
+rtp://239.16.20.140:11400
+#EXTINF:-1 group-title="河南电信",漯河新闻综合
+rtp://239.16.10.49:2000
+#EXTINF:-1 group-title="河南电信",信阳新闻综合
+rtp://239.16.10.52:2000
+#EXTINF:-1 group-title="河南电信",信阳文旅频道
+rtp://239.16.10.71:2000
+#EXTINF:-1 group-title="河南电信",封丘1新闻综合
+rtp://239.16.20.19:10190
+#EXTINF:-1 group-title="河南电信",叶县电视台-1
+rtp://239.16.20.32:10320
+#EXTINF:-1 group-title="河南电信",新密综合频道
+rtp://239.16.20.41:10410
+#EXTINF:-1 group-title="河南电信",登封综合频道
+rtp://239.16.20.42:10420
+#EXTINF:-1 group-title="河南电信",巩义综合频道
+rtp://239.16.20.43:10430
+#EXTINF:-1 group-title="河南电信",新郑TV-1
+rtp://239.16.20.45:10450
+#EXTINF:-1 group-title="河南电信",渑池新闻综合
+rtp://239.16.20.47:10470
+#EXTINF:-1 group-title="河南电信",淅川电视台-1
+rtp://239.16.20.48:10480
+#EXTINF:-1 group-title="河南电信",新蔡TV
+rtp://239.16.20.49:10490
+#EXTINF:-1 group-title="河南电信",镇平新闻综合
+rtp://239.16.20.50:10500
+#EXTINF:-1 group-title="河南电信",宝丰TV-1
+rtp://239.16.20.63:10630
+#EXTINF:-1 group-title="河南电信",义马综合频道
+rtp://239.16.20.109:11090
+#EXTINF:-1 group-title="河南电信",鹤壁新闻综合
+rtp://239.16.20.142:11420
+#EXTINF:-1 group-title="河南电信",安阳新闻综合
+rtp://239.16.20.144:11440
+#EXTINF:-1 group-title="河南电信",三门峡新闻综合
+rtp://239.16.20.145:11450
+#EXTINF:-1 group-title="河南电信",卫辉综合频道
+rtp://239.16.20.191:11910
+#EXTINF:-1 group-title="河南电信",孟津综合综合
+rtp://239.16.20.192:11920
+#EXTINF:-1 group-title="河南电信",安阳文旅频道
+rtp://239.16.20.193:11930
+#EXTINF:-1 group-title="河南电信",淇县电视台
+rtp://239.16.20.205:12050
+#EXTINF:-1 group-title="河南电信",宜阳综合频道
+rtp://239.16.20.206:12060
+#EXTINF:-1 group-title="河南电信",汝阳综合频道
+rtp://239.16.20.207:12070
+#EXTINF:-1 group-title="河南电信",原阳电视台
+rtp://239.16.20.208:12080
+#EXTINF:-1 group-title="河南电信",宝丰-1
+rtp://239.16.20.209:12090
+#EXTINF:-1 group-title="河南电信",内黄综合频道
+rtp://239.16.20.228:12280
+#EXTINF:-1 group-title="河南电信",国学频道
+rtp://239.16.20.232:12320
+#EXTINF:-1 group-title="河南电信",郏县综合频道
+rtp://239.16.20.235:12350
+#EXTINF:-1 group-title="河南电信",禹州电视台
+rtp://239.16.10.39:2000
+#EXTINF:-1 group-title="河南电信",杞县新闻综合
+rtp://239.16.10.80:2000
+#EXTINF:-1 group-title="河南电信",永城新闻联播
+rtp://239.16.10.93:2000
+#EXTINF:-1 group-title="河南电信",光山综合频道
+rtp://239.16.10.94:2000
+#EXTINF:-1 group-title="河南电信",CETV-1
+rtp://239.16.20.78:10780
+#EXTINF:-1 group-title="河南电信",上海都市剧场
+rtp://239.16.20.38:10380
+#EXTINF:-1 group-title="河南电信",上海纪实人文
+rtp://239.16.20.124:11240
+#EXTINF:-1 group-title="河南电信",上海欢笑剧场
+rtp://239.16.20.39:10390
+#EXTINF:-1 group-title="河南电信",上海动漫秀场
+rtp://239.16.20.40:10400
+#EXTINF:-1 group-title="河南电信",上海东方财经
+rtp://239.16.20.64:10640
+#EXTINF:-1 group-title="河南电信",上海法治天地
+rtp://239.16.20.156:11560
+#EXTINF:-1 group-title="河南电信",上海乐游纪实
+rtp://239.16.20.111:11110
+#EXTINF:-1 group-title="河南电信",上海游戏风云
+rtp://239.16.20.112:11120
+#EXTINF:-1 group-title="河南电信",上海魅力足球
+rtp://239.16.20.113:11130
+#EXTINF:-1 group-title="河南电信",上海生活时尚
+rtp://239.16.20.114:11140
+#EXTINF:-1 group-title="河南电信",上海金色学堂
+rtp://239.16.20.115:11150
+#EXTINF:-1 group-title="河南电信",湖南金鹰纪实
+rtp://239.16.20.153:11530
+#EXTINF:-1 group-title="河南电信",湖南金鹰卡通
+rtp://239.16.20.104:11040
+#EXTINF:-1 group-title="河南电信",湖南快乐垂钓
+rtp://239.16.20.67:10670
+#EXTINF:-1 group-title="河南电信",湖南茶频道
+rtp://239.16.20.68:10680
+#EXTINF:-1 group-title="河南电信",IPTV导视
+rtp://239.16.10.218:2000
+#EXTINF:-1 group-title="河南电信",体育赛事
+rtp://239.16.20.128:11280
+#EXTINF:-1 group-title="河南电信",中华特产
+rtp://239.16.20.132:11320
+#EXTINF:-1 group-title="河南电信",商丘1新闻综合
+rtp://239.16.10.153:2000
+#EXTINF:-1 group-title="河南电信",商丘2公共频道
+rtp://239.16.10.168:2000
+#EXTINF:-1 group-title="河南电信",商丘3文体科教
+rtp://239.16.10.169:2000
+#EXTINF:-1 group-title="河南电信",许昌农业科教
+rtp://239.16.10.60:2000
+#EXTINF:-1 group-title="河南电信",许昌综合频道
+rtp://239.16.10.47:2000
+#EXTINF:-1 group-title="河南电信",平顶山新闻综合
+rtp://239.16.20.137:11370
+#EXTINF:-1 group-title="河南电信",平顶山城市频道
+rtp://239.16.20.151:11510
+#EXTINF:-1 group-title="河南电信",平顶山公共频道
+rtp://239.16.20.152:11520
+#EXTINF:-1 group-title="河南电信",平顶山教育台
+rtp://239.16.20.27:10270
+#EXTINF:-1 group-title="河南电信",新乡综合频道
+rtp://239.16.20.18:10180
+#EXTINF:-1 group-title="河南电信",邓州综合频道
+rtp://239.16.20.20:10200
+#EXTINF:-1 group-title="河南电信",获嘉综合频道
+rtp://239.16.20.25:10250
+#EXTINF:-1 group-title="河南电信",平煤安全环保
+rtp://239.16.20.31:10310
+#EXTINF:-1 group-title="河南电信",荥阳综合频道
+rtp://239.16.20.44:10440
+#EXTINF:-1 group-title="河南电信",健康河南融媒
+rtp://239.16.20.52:10520
+#EXTINF:-1 group-title="河南电信",灵宝综合频道
+rtp://239.16.20.59:10590
+#EXTINF:-1 group-title="河南电信",渑池新闻综合
+rtp://239.16.20.135:11350
+#EXTINF:-1 group-title="河南电信",济源-1
+rtp://239.16.20.174:11740
+#EXTINF:-1 group-title="河南电信",濮阳新闻综合
+rtp://239.16.20.175:11750
+#EXTINF:-1 group-title="河南电信",濮阳公共频道
+rtp://239.16.20.184:11840
+#EXTINF:-1 group-title="河南电信",新县综合频道
+rtp://239.16.20.183:11830
+#EXTINF:-1 group-title="河南电信",延津电视台
+rtp://239.16.20.210:12100
+#EXTINF:-1 group-title="河南电信",体育赛事
+rtp://239.16.20.215:12150
+#EXTINF:-1 group-title="河南电信",大象新闻
+rtp://239.16.20.216:12160
+#EXTINF:-1 group-title="河南电信",大剧院
+rtp://239.16.20.217:12170
+#EXTINF:-1 group-title="河南电信",舞钢电视台-1
+rtp://239.16.20.227:12270
+#EXTINF:-1 group-title="河南电信",嵩县综合新闻
+rtp://239.16.20.234:12340
+#EXTINF:-1 group-title="河南电信",浉河广电中心
+rtp://239.16.10.72:2000
+#EXTINF:-1 group-title="河南电信",平桥广电中心
+rtp://239.16.10.73:2000
+#EXTINF:-1 group-title="河南电信",郸城
+rtp://239.16.10.84:2000
+#EXTINF:-1 group-title="河南电信",唐河TV-1
+rtp://239.16.10.95:2000
+#EXTINF:-1 group-title="河南电信",上蔡-1
+rtp://239.16.10.97:2000
+#EXTINF:-1 group-title="河南电信",舞阳新闻综合
+rtp://239.16.10.179:2000
+#EXTINF:-1 group-title="河南电信",临颍综合频道
+rtp://239.16.10.180:2000
+#EXTINF:-1 group-title="河南电信",项城电视台
+rtp://239.16.10.214:2000
+#EXTINF:-1 group-title="国际台",CNN International South Asia
+http://103.253.74.210:7070/stream/115/index.m3u8
+#EXTINF:-1 group-title="国际台",BBC News South Asia
+http://103.253.74.210:7070/stream/114/index.m3u8
+#EXTINF:-1 group-title="国际台",NHK World-Japan
+https://cdn.pishow.tv/ott/live/455/master.m3u8
+#EXTINF:-1 group-title="国际台",DW English
+http://170.83.16.50/DW/index.m3u8
+#EXTINF:-1 group-title="国际台",France 24 English
+http://170.83.16.50/FRANCE_24/index.m3u8
+#EXTINF:-1 group-title="国际台",Al Jazeera English
+http://170.83.16.50/ALJAZEERA/index.m3u8
+#EXTINF:-1 group-title="国际台",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="国际台",ABC News
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 group-title="国际台",NDTV
+https://cdn.pishow.tv/ott/live/315/master.m3u8
+#EXTINF:-1 group-title="国际台",WION
+http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8
+#EXTINF:-1 group-title="国际台",Euronews Bulgaria
+http://213.91.179.28:8000/play/a05e
