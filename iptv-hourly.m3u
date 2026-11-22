@@ -1,25 +1,33 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="客家电视台" group-title="港澳台",客家电视台
-https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
+https://h5cu1yar48m3t.wcetv.com/hls/hakkatv.m3u8
 #EXTINF:-1 tvg-name="WXTV" group-title="港澳台",WXTV
-https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+https://mobile.cdntech.com/transcoder/_definst/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-name="原住民族电视台" group-title="港澳台",原住民族电视台
-https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+https://streamipcfapp.akamaized.net/live/_definst/live_720/0_key_b1500.m3u8
 #EXTINF:-1 tvg-name="台视新闻" group-title="港澳台",台视新闻
 https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲台" group-title="港澳台",TVBS亚洲台
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-name="宠物俱乐部电视台" group-title="港澳台",宠物俱乐部电视台
+#EXTINF:-1 tvg-name="宠物俱乐部电视台" group-title="海外中文",宠物俱乐部电视台
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="新唐人电视台亚太" group-title="海外中文",新唐人电视台亚太
 https://live.ntdtv.com/aplive200/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN" group-title="国际新闻",CNN
 https://tvsen6.aynaott.com/cnn/index.m3u8
 #EXTINF:-1 tvg-name="CNN西班牙语频道" group-title="国际新闻",CNN西班牙语频道
-https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playList.m3u8
 #EXTINF:-1 tvg-name="亚洲新闻台" group-title="国际新闻",亚洲新闻台
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+https://d2elasnsl7br7b.cloudfront.net/7782e205e72f43aeb44a8ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-name="央视纪录频道" group-title="国际新闻",央视纪录频道
 https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 tvg-name="TVB News Channel" group-title="港澳台",TVB News Channel
 http://r.jdshipin.com/CkuBd
+#EXTINF:-1 group-title="港澳台",TVBS新闻
+http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",香港-HOY资讯台
+https://cdn.qd.je/163189/hoy78
+#EXTINF:-1 group-title="港澳台",香港-NOW新闻台
+https://cdn.qd.je/163189/now
+#EXTINF:-1 group-title="港澳台",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
