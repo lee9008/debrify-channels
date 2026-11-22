@@ -4,7 +4,7 @@ https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
 #EXTINF:-1 tvg-name="WXTV" group-title="港澳台",WXTV
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-name="原住民族电视台" group-title="港澳台",原住民族电视台
-https://streamipcfapp.akamaized.net/live/_definst_/live_720p/key_b1500.m3u8
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-name="台视新闻" group-title="港澳台",台视新闻
 https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲台" group-title="港澳台",TVBS亚洲台
