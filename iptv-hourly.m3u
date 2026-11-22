@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="客家电视台" group-title="港澳台",客家电视台
+https://h5cullyar48um3t.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 tvg-name="WXTV" group-title="港澳台",WXTV
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-name="原住民族电视台" group-title="港澳台",原住民族电视台
+https://streamipcfapp.akamaiized.net/live/_definst_/live_720p/key_b1500.m3u8
+#EXTINF:-1 tvg-name="台视新闻" group-title="港澳台",台视新闻
+https://live.wcetv.com/hls/master-ttvnews.m3u8
+#EXTINF:-1 tvg-name="TVBS亚洲台" group-title="港澳台",TVBS亚洲台
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-name="宠物俱乐部电视台" group-title="港澳台",宠物俱乐部电视台
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="新唐人电视台亚太" group-title="海外中文",新唐人电视台亚太
+https://live.ntdtv.com/aplive200/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN" group-title="国际新闻",CNN
+https://tvsen6.aynaott.com/cnn/index.m3u8
+#EXTINF:-1 tvg-name="CNN西班牙语频道" group-title="国际新闻",CNN西班牙语频道
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="亚洲新闻台" group-title="国际新闻",亚洲新闻台
+https://d2elasnsl7br7b.cloudfront.net/7782e205e72f43eab4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-name="央视纪录频道" group-title="国际新闻",央视纪录频道
+https://xykt-fix.github.io/Y77.m3u8
