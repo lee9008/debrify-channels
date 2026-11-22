@@ -37,5 +37,7 @@ https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlis
 https://hami.gxdx.org/hami/1535.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
 #EXTINF:-1 tvg-name="民视台湾" group-title="港澳台",民视台湾
 https://hami.gxdx.org/hami/1579.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0b674350d7&direct=1
-#EXTINF:-1 tvg-name="RTHK TV 31 (1080p) [Geo-blocked]" group-title="港澳台",RTHK TV 31 (1080p) [Geo-blocked]
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-name="天映经典" group-title="港澳台" tvg-id="368371" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png",天映经典
+https://cdn.qd.je/163189/ccm2
+#EXTINF:-1 tvg-name="天映频道" group-title="港澳台" tvg-id="1298" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png",天映频道
+https://cdn.qd.je/163189/typd2
