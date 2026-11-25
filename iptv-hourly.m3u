@@ -41,3 +41,11 @@ https://hami.gxdx.org/hami/1579.m3u8?key=0a91c689988e5000119015531abd677ea1ecaf0
 https://cdn.qd.je/163189/ccm2
 #EXTINF:-1 tvg-name="天映频道" group-title="港澳台" tvg-id="1298" tvg-logo="https://cdn.jsdelivr.net/gh/jamsluuuuu/iptv@main/logos/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png",天映频道
 https://cdn.qd.je/163189/typd2
+#EXTINF:-1 tvg-name="美丽人生电视" group-title="港澳台",美丽人生电视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-name="GoodTV" group-title="港澳台",Good TV
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-name="港台电视31" group-title="港澳台",港台电视31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-name="KIX动作电影频道" group-title="港澳台",KIX 动作电影频道
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
