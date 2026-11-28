@@ -45,7 +45,7 @@ https://cdn.qd.je/163189/typd2
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-name="GoodTV" group-title="港澳台",Good TV
 https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-name="港台电视31" group-title="港澳台",港台电视31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-name="KIX动作电影频道" group-title="港澳台",KIX 动作电影频道
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
+#EXTINF:-1 tvg-id="CGNTVChinese.tw" tvg-name="CGNTV Chinese" tvg-logo="https://i.imgur.com/bPoPAbR.png" group-title="港澳台",CGNTV Chinese (1080p)
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
